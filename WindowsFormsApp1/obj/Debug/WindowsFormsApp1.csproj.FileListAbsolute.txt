@@ -1,0 +1,161 @@
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Foundation.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Composition.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Xaml.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Application.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home2.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Characteristic.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Execution.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Foundation.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Composition.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Xaml.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Application.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home2.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Characteristic.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Execution.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kiril\OneDrive\Рабочий стол\диплом 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Foundation.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Composition.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Xaml.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Application.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrator.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home2.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Characteristic.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Execution.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Information.resources
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kiril\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml

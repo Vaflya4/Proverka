@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BD_RemontModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Booking">
+    <Key>
+      <PropertyRef Name="Id_klient" />
+    </Key>
+    <Property Name="Id_klient" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Order" Relationship="Self.FK_Order_Booking" FromRole="Booking" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id_order" />
+    </Key>
+    <Property Name="Id_order" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Id_klient" Type="Int32" Nullable="false" />
+    <Property Name="Id_perfomance" Type="Int32" Nullable="false" />
+    <Property Name="Date_order" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Id_status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Booking" Relationship="Self.FK_Order_Booking" FromRole="Order" ToRole="Booking" />
+    <NavigationProperty Name="Perfomance" Relationship="Self.FK_Order_Perfomance" FromRole="Order" ToRole="Perfomance" />
+    <NavigationProperty Name="Status_order" Relationship="Self.FK_Order_Status_order" FromRole="Order" ToRole="Status_order" />
+  </EntityType>
+  <EntityType Name="Perfomance">
+    <Key>
+      <PropertyRef Name="Id_perfomance" />
+    </Key>
+    <Property Name="Id_perfomance" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Vid_Remonta" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cost_of_work" Type="Int32" Nullable="false" />
+    <Property Name="The_cost_of_components" Type="Int32" />
+    <Property Name="Discount" Type="Int32" />
+    <Property Name="The_total_cost" Type="Int32" Nullable="false" />
+    <Property Name="Due_date" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Order" Relationship="Self.FK_Order_Perfomance" FromRole="Perfomance" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Status_order">
+    <Key>
+      <PropertyRef Name="Id_status" />
+    </Key>
+    <Property Name="Id_status" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Order" Relationship="Self.FK_Order_Status_order" FromRole="Status_order" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Order_Booking">
+    <End Role="Booking" Type="Self.Booking" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Booking">
+        <PropertyRef Name="Id_klient" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="Id_klient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Perfomance">
+    <End Role="Perfomance" Type="Self.Perfomance" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Perfomance">
+        <PropertyRef Name="Id_perfomance" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="Id_perfomance" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Status_order">
+    <End Role="Status_order" Type="Self.Status_order" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Status_order">
+        <PropertyRef Name="Id_status" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="Id_status" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BD_RemontEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Booking" EntityType="Self.Booking" />
+    <EntitySet Name="Order" EntityType="Self.Order" />
+    <EntitySet Name="Perfomance" EntityType="Self.Perfomance" />
+    <EntitySet Name="Status_order" EntityType="Self.Status_order" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_Order_Booking" Association="Self.FK_Order_Booking">
+      <End Role="Booking" EntitySet="Booking" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Perfomance" Association="Self.FK_Order_Perfomance">
+      <End Role="Perfomance" EntitySet="Perfomance" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Status_order" Association="Self.FK_Order_Status_order">
+      <End Role="Status_order" EntitySet="Status_order" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
